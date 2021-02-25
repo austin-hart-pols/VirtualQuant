@@ -1,0 +1,84 @@
+---
+title: "VIRTUAL BALANCE"
+subtitle: "in quant courses"
+author: "Austin Hart"
+institute: "School of International Service"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: false
+    css: [default, rladies, rladies-fonts]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: inverse, middle
+
+# A VIRTUAL BALANCE 
+
+### What recorded content do students engage?
+
+### Where do I add the most value in Zoom?
+
+.footnote[Austin Hart, 2.25.2021]
+
+---
+
+# Aynchronous content
+
+### What recorded content to students engage?
+.pull-left[
+
+**LOW ENGAGEMENT**  
+- Theoretical/complex  
+  - "Central Limit Theorem"  
+  
+- Workshop/conversational
+
+]
+
+.pull-right[
+
+**HIGH ENGAGEMENT**  
+- Instructional  
+  - "How to `XYZ` in R"  
+
+]
+
+
+.footnote[Austin Hart, 2.25.2021]
+
+---
+
+# Synchronous sessions
+  
+### Where can I add the most value in Zoom?  
+
+.pull-left[
+
+**LOWER VALUE**
+- Basic instructional  
+  - "Interpret slope coefficient"  
+  
+- Diagnosing error messages
+
+]
+
+.pull-right[
+
+**HIGHER VALUE**  
+- Complex
+  - "Selection bias"  
+    
+- Open-ended
+  - "Diagram Study A"
+  
+- Synthetic/Organizing  
+  
+]
+
+.footnote[Austin Hart, 2.25.2021]
+
+
